@@ -5,4 +5,4 @@ n=0
 m=0
 print "input for number:"
 
-print "input for mod:"
+print "input for mod:" testing test
